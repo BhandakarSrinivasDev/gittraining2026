@@ -1,3 +1,2 @@
 Hello text file contents
 Adding a line.
-Adding another line, will delete it.
